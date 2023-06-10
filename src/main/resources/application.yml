@@ -1,0 +1,12 @@
+spring:
+  security:
+    jwt:
+      secret-key: 50da128b9809bf0d03cf013012df6f85ce0896222cccf0b2a9d43c2e71b0d9f8
+      expires: 2592000000
+
+
+upload:
+  cloudinary:
+    cloud-name: dhoyfs2wa
+    api-key: 879153232285769
+    api-secret: W_Q8dvHmN9lhlFoL7IPFV2xtC2M
